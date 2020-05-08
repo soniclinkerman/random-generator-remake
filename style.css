@@ -1,0 +1,15 @@
+html {
+    height: 100vh;
+    width: 100vw;
+}
+
+body {
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+
+}
+
+h1,h2 {
+    text-transform: uppercase;
+}
